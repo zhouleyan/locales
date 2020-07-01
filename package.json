@@ -1,6 +1,6 @@
 {
   "name": "@elementium/koa-locales",
-  "version": "1.0.0",
+  "version": "1.13.0",
   "description": "koa locales, i18n solution for koa",
   "main": "index.js",
   "files": [
