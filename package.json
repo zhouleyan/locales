@@ -1,6 +1,6 @@
 {
-  "name": "koa-locales",
-  "version": "1.12.0",
+  "name": "@elementium/koa-locales",
+  "version": "1.0.0",
   "description": "koa locales, i18n solution for koa",
   "main": "index.js",
   "files": [
@@ -36,14 +36,14 @@
     "pedding": "^1.1.0",
     "supertest": "^2.0.1"
   },
-  "homepage": "https://github.com/koajs/locales",
+  "homepage": "https://github.com/zhouleyan/locales",
   "repository": {
     "type": "git",
-    "url": "git://github.com/koajs/locales.git",
-    "web": "https://github.com/koajs/locales"
+    "url": "git://github.com/zhouleyan/locales.git",
+    "web": "https://github.com/zhouleyan/locales"
   },
   "bugs": {
-    "url": "https://github.com/koajs/locales/issues"
+    "url": "https://github.com/zhouleyan/locales/issues"
   },
   "keywords": [
     "koa-locales",
@@ -58,6 +58,6 @@
   "ci": {
     "version": "4, 6, 8, 10, 12"
   },
-  "author": "fengmk2 <fengmk2@gmail.com> (https://fengmk2.com)",
+  "author": "zhouleyan",
   "license": "MIT"
 }
